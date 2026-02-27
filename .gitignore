@@ -49,3 +49,6 @@ qtcreator-*
 
 # Catkin custom files
 CATKIN_IGNORE
+
+EaiCameraSdk_v1.2.28.20241015/
+YDLidar-SDK/
